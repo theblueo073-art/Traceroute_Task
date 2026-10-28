@@ -1,0 +1,1 @@
+PLACEHOLDER — Replace this file with your actual output from: ping -c 4 www.cisco.com

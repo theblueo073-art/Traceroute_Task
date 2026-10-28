@@ -1,0 +1,16 @@
+# Temporary editor/OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Do not commit secrets or credentials
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Keep the screenshot folder placeholder, but ignore common temporary captures
+screenshots/*.tmp
